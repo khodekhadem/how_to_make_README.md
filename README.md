@@ -7,15 +7,19 @@ make this things
 
 [![Requirements](https://img.shields.io/badge/You%20require-this%20%2F%20or%20this%20%2F%20or%20like%20this-blue)]()
 
-or 
-# this 
-big header
-or maybe ```this things``` or
 
+# or this big header
+
+or maybe ```this things``` 
+# or
+```
     like this
-    
-# or        
+    to write code 
+    or again ; this
+```        
 ![picture](https://github.com/khodekhadem/how_to_make_README.md/blob/main/or%20like%20this1.jpg)
 # or a .gif
 
 ![picture](https://github.com/khodekhadem/how_to_make_README.md/blob/main/or%20like%20this%20gif.gif)
+
+or [a link to](https://github..com/khodekhadm/movie-finder) another page
