@@ -22,4 +22,4 @@ or maybe ```this things```
 
 ![picture](https://github.com/khodekhadem/how_to_make_README.md/blob/main/or%20like%20this%20gif.gif)
 
-or [a link to](https://github..com/khodekhadem/movie-finder) another page
+or [a link to](https://github.com/khodekhadem/movie-finder) another page
