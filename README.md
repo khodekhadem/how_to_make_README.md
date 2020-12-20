@@ -5,7 +5,7 @@ how to make a README.md for your github repository . easy peasy :)
 make this things
 
 
-[![Requirements](https://img.shields.io/badge/Requirements-python3%20%2F%20curl%20%2F%20git-blue)]()
+[![Requirements](https://img.shields.io/badge/You%20require-this%20%2F%20or%20this%20%2F%20or%20like%20this-blue)]()
 
 or 
 # this 
