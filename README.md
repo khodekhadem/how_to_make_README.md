@@ -26,9 +26,10 @@ or [a link to](https://github.com/khodekhadem/movie-finder) another page
 
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- this in red
++ this in green
+! this in orange
+# this in gray
+@@ this in purple (and this bold)@@
 ```
+this this this this ...
